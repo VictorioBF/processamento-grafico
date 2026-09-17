@@ -9,3 +9,4 @@ Repositório com os projetos desenvolvidos para a Atividade Acadêmica **Process
 | Projeto                 | Engine / Linguagem | Descrição breve                             |
 | ----------------------- | ------------------ | ------------------------------------------- |
 | `lista-um` | Python/PyOpenGL | Desenvolvimento dos exercícios da Lista 1 |
+| `lista-dois` | Python/PyOpenGL | Desenvolvimento dos exercícios da Lista 2 |
